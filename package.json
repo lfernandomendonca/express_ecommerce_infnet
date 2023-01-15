@@ -1,0 +1,14 @@
+{
+  "name": "app_express",
+  "version": "0.0.1",
+  "description": "meu primeiro app web  express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Fernando Melibeu de Mendonça",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
